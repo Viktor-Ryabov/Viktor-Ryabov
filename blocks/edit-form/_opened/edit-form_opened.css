@@ -1,0 +1,4 @@
+.edit-form_opened {
+    visibility: visible;
+    background-color: rgba(0, 0, 0, 0.5);
+}
